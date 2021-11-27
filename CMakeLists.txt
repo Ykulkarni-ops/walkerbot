@@ -47,5 +47,5 @@ include_directories(
 ## With catkin_make all packages are built within a single CMake context
 ## Add cmake target dependencies of the executable
 
-add_executable(walker_turtlebot src/main.cpp src/walker.cpp)
-target_link_libraries(walkerbot ${catkin_LIBRARIES})
+add_executable(walker_bot src/main.cpp src/walker.cpp)
+target_link_libraries(walker_bot ${catkin_LIBRARIES})
