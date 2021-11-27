@@ -11,7 +11,7 @@ A simple semi-automated control of turtle bot to avoid obstacles using ROS packa
 ## Dependencies
 The package has the following dependencies:
 
-- Ubuntu .04
+- Ubuntu 20.04
 - ROS Noetic
 - catkin_ws
 - roscpp
